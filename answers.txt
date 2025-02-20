@@ -3,3 +3,6 @@ Answer: To keep track of changes.
 
 Q2: What field could data science be applied to? Give an Example.
 Answer: Marketing, where data science would be essential to tracking success and progress.
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging attempts to combine the contents of a given branch with the current branch, while rebasing replays the contents of the given branch onto the current branch.
