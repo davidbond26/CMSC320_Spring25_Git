@@ -6,3 +6,6 @@ Answer: Marketing, where data science would be essential to tracking success and
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging attempts to combine the contents of a given branch with the current branch, while rebasing replays the contents of the given branch onto the current branch.
+
+Q4: What are you looking forward to this semester?
+Answer: Looking forward to learning about data science and working in a group!
