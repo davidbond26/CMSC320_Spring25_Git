@@ -1,5 +1,2 @@
 Q2: What field could data science be applied to? Give an Example.
-
 Answer: Marketing, where data science would be essential to tracking success and progress.
-
-
